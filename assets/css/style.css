@@ -1,0 +1,38 @@
+body {
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-size: 4vmin;
+    line-height: 2em;
+}
+ul {
+    padding: 0;
+}
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+.container {
+    width: 90%;
+    margin: 0 auto;
+    overflow: auto;
+}
+header {
+    background-color: #EFEDED;
+}
+main {
+    padding-bottom: 20px;
+}
+h2 {
+    font-size: 5vmin;
+}
+.start {
+    display: inline-block;
+    color: grey;
+    background-color: #EFEDED;
+    padding: 6px 13px;
+}
+footer {
+    background-color: #EFEDED;
+    text-align: center;
+}
